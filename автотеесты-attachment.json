@@ -1,0 +1,602 @@
+{
+  "data": [
+    {
+      "completeTime": null,
+      "deviceCode": "lgcity_mp",
+      "merchant": {
+        "id": 105,
+        "name": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 lgCITY",
+        "internalName": "MobApp_lgCITY",
+        "guid": "00000000-0000-0000-0000-000000000000",
+        "uid": "97d50ca0-16ca-e3ab-b5f7-193b656c3cc9",
+        "code": "MobApp_lgCITY",
+        "brandId": 10,
+        "partnerId": 1,
+        "brandName": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0438 MobApp lgCITY",
+        "partnerCatalogId": 1,
+        "location": null,
+        "isDeleted": false,
+        "url": null,
+        "order": 200,
+        "description": "",
+        "schedule": null,
+        "contacts": null,
+        "image": null,
+        "refundNegativeType": "AllowNegative",
+        "additionalInfo": [
+          {
+            "name": "Brand",
+            "value": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d lgcity"
+          }
+        ],
+        "paymentLimits": [
+          {
+            "identifierType": "Phone",
+            "maximumAmountPaymentLimitEnabled": false,
+            "maximumAmountPaymentLimit": null,
+            "paymentConfirmCodeVerificationEnabled": false,
+            "paymentConfirmCodeVerificationAmount": null
+          }
+        ]
+      },
+      "legal": {
+        "id": 1,
+        "partnerId": 1,
+        "name": "\u041e\u041e\u041e \"\u0422\u0420\u0415\u0419\u0414 \u041c\u0415\u041d\u0415\u0414\u0416\u041c\u0415\u041d\u0422\"",
+        "code": "cade91bd29b742e5b5f118f0ccb3a2c1",
+        "uid": "75e4252e-c955-466b-9610-c32a4d1b9405",
+        "isDeleted": false
+      },
+      "state": "Confirmed",
+      "isFinalState": true,
+      "loyaltyProgramId": 1,
+      "personIdentifier": "79261881687",
+      "couponNumbers": null,
+      "timeZone": 0,
+      "chequeAdditionalAttributes": null,
+      "id": 2163056492,
+      "purchaseId": 2163056492,
+      "purchaseTime": "2025-03-14T02:35:53",
+      "chequeNumber": "1605128"
+    },
+    {
+      "completeTime": null,
+      "deviceCode": "lgcity_mp",
+      "merchant": {
+        "id": 105,
+        "name": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 lgCITY",
+        "internalName": "MobApp_lgCITY",
+        "guid": "00000000-0000-0000-0000-000000000000",
+        "uid": "97d50ca0-16ca-e3ab-b5f7-193b656c3cc9",
+        "code": "MobApp_lgCITY",
+        "brandId": 10,
+        "partnerId": 1,
+        "brandName": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0438 MobApp lgCITY",
+        "partnerCatalogId": 1,
+        "location": null,
+        "isDeleted": false,
+        "url": null,
+        "order": 200,
+        "description": "",
+        "schedule": null,
+        "contacts": null,
+        "image": null,
+        "refundNegativeType": "AllowNegative",
+        "additionalInfo": [
+          {
+            "name": "Brand",
+            "value": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d lgcity"
+          }
+        ],
+        "paymentLimits": [
+          {
+            "identifierType": "Phone",
+            "maximumAmountPaymentLimitEnabled": false,
+            "maximumAmountPaymentLimit": null,
+            "paymentConfirmCodeVerificationEnabled": false,
+            "paymentConfirmCodeVerificationAmount": null
+          }
+        ]
+      },
+      "legal": {
+        "id": 1,
+        "partnerId": 1,
+        "name": "\u041e\u041e\u041e \"\u0422\u0420\u0415\u0419\u0414 \u041c\u0415\u041d\u0415\u0414\u0416\u041c\u0415\u041d\u0422\"",
+        "code": "cade91bd29b742e5b5f118f0ccb3a2c1",
+        "uid": "75e4252e-c955-466b-9610-c32a4d1b9405",
+        "isDeleted": false
+      },
+      "state": "Confirmed",
+      "isFinalState": true,
+      "loyaltyProgramId": 1,
+      "personIdentifier": "79261881687",
+      "couponNumbers": null,
+      "timeZone": 0,
+      "chequeAdditionalAttributes": null,
+      "id": 2163056491,
+      "purchaseId": 2163056491,
+      "purchaseTime": "2025-03-14T02:35:33",
+      "chequeNumber": "1605128"
+    },
+    {
+      "completeTime": null,
+      "deviceCode": "lgcity_mp",
+      "merchant": {
+        "id": 105,
+        "name": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 lgCITY",
+        "internalName": "MobApp_lgCITY",
+        "guid": "00000000-0000-0000-0000-000000000000",
+        "uid": "97d50ca0-16ca-e3ab-b5f7-193b656c3cc9",
+        "code": "MobApp_lgCITY",
+        "brandId": 10,
+        "partnerId": 1,
+        "brandName": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0438 MobApp lgCITY",
+        "partnerCatalogId": 1,
+        "location": null,
+        "isDeleted": false,
+        "url": null,
+        "order": 200,
+        "description": "",
+        "schedule": null,
+        "contacts": null,
+        "image": null,
+        "refundNegativeType": "AllowNegative",
+        "additionalInfo": [
+          {
+            "name": "Brand",
+            "value": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d lgcity"
+          }
+        ],
+        "paymentLimits": [
+          {
+            "identifierType": "Phone",
+            "maximumAmountPaymentLimitEnabled": false,
+            "maximumAmountPaymentLimit": null,
+            "paymentConfirmCodeVerificationEnabled": false,
+            "paymentConfirmCodeVerificationAmount": null
+          }
+        ]
+      },
+      "legal": {
+        "id": 1,
+        "partnerId": 1,
+        "name": "\u041e\u041e\u041e \"\u0422\u0420\u0415\u0419\u0414 \u041c\u0415\u041d\u0415\u0414\u0416\u041c\u0415\u041d\u0422\"",
+        "code": "cade91bd29b742e5b5f118f0ccb3a2c1",
+        "uid": "75e4252e-c955-466b-9610-c32a4d1b9405",
+        "isDeleted": false
+      },
+      "state": "Confirmed",
+      "isFinalState": true,
+      "loyaltyProgramId": 1,
+      "personIdentifier": "79261881687",
+      "couponNumbers": null,
+      "timeZone": 0,
+      "chequeAdditionalAttributes": null,
+      "id": 2163056279,
+      "purchaseId": 2163056279,
+      "purchaseTime": "2025-03-12T23:59:39",
+      "chequeNumber": "1605092"
+    },
+    {
+      "completeTime": null,
+      "deviceCode": "lgcity_mp",
+      "merchant": {
+        "id": 105,
+        "name": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 lgCITY",
+        "internalName": "MobApp_lgCITY",
+        "guid": "00000000-0000-0000-0000-000000000000",
+        "uid": "97d50ca0-16ca-e3ab-b5f7-193b656c3cc9",
+        "code": "MobApp_lgCITY",
+        "brandId": 10,
+        "partnerId": 1,
+        "brandName": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0438 MobApp lgCITY",
+        "partnerCatalogId": 1,
+        "location": null,
+        "isDeleted": false,
+        "url": null,
+        "order": 200,
+        "description": "",
+        "schedule": null,
+        "contacts": null,
+        "image": null,
+        "refundNegativeType": "AllowNegative",
+        "additionalInfo": [
+          {
+            "name": "Brand",
+            "value": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d lgcity"
+          }
+        ],
+        "paymentLimits": [
+          {
+            "identifierType": "Phone",
+            "maximumAmountPaymentLimitEnabled": false,
+            "maximumAmountPaymentLimit": null,
+            "paymentConfirmCodeVerificationEnabled": false,
+            "paymentConfirmCodeVerificationAmount": null
+          }
+        ]
+      },
+      "legal": {
+        "id": 1,
+        "partnerId": 1,
+        "name": "\u041e\u041e\u041e \"\u0422\u0420\u0415\u0419\u0414 \u041c\u0415\u041d\u0415\u0414\u0416\u041c\u0415\u041d\u0422\"",
+        "code": "cade91bd29b742e5b5f118f0ccb3a2c1",
+        "uid": "75e4252e-c955-466b-9610-c32a4d1b9405",
+        "isDeleted": false
+      },
+      "state": "Canceled",
+      "isFinalState": true,
+      "loyaltyProgramId": 1,
+      "personIdentifier": "79261881687",
+      "couponNumbers": null,
+      "timeZone": 0,
+      "chequeAdditionalAttributes": null,
+      "id": 2163056278,
+      "purchaseId": 2163056278,
+      "purchaseTime": "2025-03-12T23:59:39",
+      "chequeNumber": "1605092"
+    },
+    {
+      "completeTime": null,
+      "deviceCode": "lgcity_mp",
+      "merchant": {
+        "id": 105,
+        "name": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 lgCITY",
+        "internalName": "MobApp_lgCITY",
+        "guid": "00000000-0000-0000-0000-000000000000",
+        "uid": "97d50ca0-16ca-e3ab-b5f7-193b656c3cc9",
+        "code": "MobApp_lgCITY",
+        "brandId": 10,
+        "partnerId": 1,
+        "brandName": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0438 MobApp lgCITY",
+        "partnerCatalogId": 1,
+        "location": null,
+        "isDeleted": false,
+        "url": null,
+        "order": 200,
+        "description": "",
+        "schedule": null,
+        "contacts": null,
+        "image": null,
+        "refundNegativeType": "AllowNegative",
+        "additionalInfo": [
+          {
+            "name": "Brand",
+            "value": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d lgcity"
+          }
+        ],
+        "paymentLimits": [
+          {
+            "identifierType": "Phone",
+            "maximumAmountPaymentLimitEnabled": false,
+            "maximumAmountPaymentLimit": null,
+            "paymentConfirmCodeVerificationEnabled": false,
+            "paymentConfirmCodeVerificationAmount": null
+          }
+        ]
+      },
+      "legal": {
+        "id": 1,
+        "partnerId": 1,
+        "name": "\u041e\u041e\u041e \"\u0422\u0420\u0415\u0419\u0414 \u041c\u0415\u041d\u0415\u0414\u0416\u041c\u0415\u041d\u0422\"",
+        "code": "cade91bd29b742e5b5f118f0ccb3a2c1",
+        "uid": "75e4252e-c955-466b-9610-c32a4d1b9405",
+        "isDeleted": false
+      },
+      "state": "Created",
+      "isFinalState": false,
+      "loyaltyProgramId": 1,
+      "personIdentifier": "79261881687",
+      "couponNumbers": null,
+      "timeZone": 0,
+      "chequeAdditionalAttributes": null,
+      "id": 2163056269,
+      "purchaseId": 2163056269,
+      "purchaseTime": "2025-03-12T23:58:13",
+      "chequeNumber": "1605090"
+    },
+    {
+      "completeTime": null,
+      "deviceCode": "lgcity_mp",
+      "merchant": {
+        "id": 105,
+        "name": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 lgCITY",
+        "internalName": "MobApp_lgCITY",
+        "guid": "00000000-0000-0000-0000-000000000000",
+        "uid": "97d50ca0-16ca-e3ab-b5f7-193b656c3cc9",
+        "code": "MobApp_lgCITY",
+        "brandId": 10,
+        "partnerId": 1,
+        "brandName": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0438 MobApp lgCITY",
+        "partnerCatalogId": 1,
+        "location": null,
+        "isDeleted": false,
+        "url": null,
+        "order": 200,
+        "description": "",
+        "schedule": null,
+        "contacts": null,
+        "image": null,
+        "refundNegativeType": "AllowNegative",
+        "additionalInfo": [
+          {
+            "name": "Brand",
+            "value": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d lgcity"
+          }
+        ],
+        "paymentLimits": [
+          {
+            "identifierType": "Phone",
+            "maximumAmountPaymentLimitEnabled": false,
+            "maximumAmountPaymentLimit": null,
+            "paymentConfirmCodeVerificationEnabled": false,
+            "paymentConfirmCodeVerificationAmount": null
+          }
+        ]
+      },
+      "legal": {
+        "id": 1,
+        "partnerId": 1,
+        "name": "\u041e\u041e\u041e \"\u0422\u0420\u0415\u0419\u0414 \u041c\u0415\u041d\u0415\u0414\u0416\u041c\u0415\u041d\u0422\"",
+        "code": "cade91bd29b742e5b5f118f0ccb3a2c1",
+        "uid": "75e4252e-c955-466b-9610-c32a4d1b9405",
+        "isDeleted": false
+      },
+      "state": "Confirmed",
+      "isFinalState": true,
+      "loyaltyProgramId": 1,
+      "personIdentifier": "79261881687",
+      "couponNumbers": null,
+      "timeZone": 0,
+      "chequeAdditionalAttributes": null,
+      "id": 2163056251,
+      "purchaseId": 2163056251,
+      "purchaseTime": "2025-03-12T23:54:33",
+      "chequeNumber": "1605084"
+    },
+    {
+      "completeTime": null,
+      "deviceCode": "lgcity_mp",
+      "merchant": {
+        "id": 105,
+        "name": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 lgCITY",
+        "internalName": "MobApp_lgCITY",
+        "guid": "00000000-0000-0000-0000-000000000000",
+        "uid": "97d50ca0-16ca-e3ab-b5f7-193b656c3cc9",
+        "code": "MobApp_lgCITY",
+        "brandId": 10,
+        "partnerId": 1,
+        "brandName": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0438 MobApp lgCITY",
+        "partnerCatalogId": 1,
+        "location": null,
+        "isDeleted": false,
+        "url": null,
+        "order": 200,
+        "description": "",
+        "schedule": null,
+        "contacts": null,
+        "image": null,
+        "refundNegativeType": "AllowNegative",
+        "additionalInfo": [
+          {
+            "name": "Brand",
+            "value": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d lgcity"
+          }
+        ],
+        "paymentLimits": [
+          {
+            "identifierType": "Phone",
+            "maximumAmountPaymentLimitEnabled": false,
+            "maximumAmountPaymentLimit": null,
+            "paymentConfirmCodeVerificationEnabled": false,
+            "paymentConfirmCodeVerificationAmount": null
+          }
+        ]
+      },
+      "legal": {
+        "id": 1,
+        "partnerId": 1,
+        "name": "\u041e\u041e\u041e \"\u0422\u0420\u0415\u0419\u0414 \u041c\u0415\u041d\u0415\u0414\u0416\u041c\u0415\u041d\u0422\"",
+        "code": "cade91bd29b742e5b5f118f0ccb3a2c1",
+        "uid": "75e4252e-c955-466b-9610-c32a4d1b9405",
+        "isDeleted": false
+      },
+      "state": "Confirmed",
+      "isFinalState": true,
+      "loyaltyProgramId": 1,
+      "personIdentifier": "79261881687",
+      "couponNumbers": null,
+      "timeZone": 0,
+      "chequeAdditionalAttributes": null,
+      "id": 2163056245,
+      "purchaseId": 2163056245,
+      "purchaseTime": "2025-03-12T23:53:00",
+      "chequeNumber": "1605082"
+    },
+    {
+      "completeTime": null,
+      "deviceCode": "lgcity_mp",
+      "merchant": {
+        "id": 105,
+        "name": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 lgCITY",
+        "internalName": "MobApp_lgCITY",
+        "guid": "00000000-0000-0000-0000-000000000000",
+        "uid": "97d50ca0-16ca-e3ab-b5f7-193b656c3cc9",
+        "code": "MobApp_lgCITY",
+        "brandId": 10,
+        "partnerId": 1,
+        "brandName": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0438 MobApp lgCITY",
+        "partnerCatalogId": 1,
+        "location": null,
+        "isDeleted": false,
+        "url": null,
+        "order": 200,
+        "description": "",
+        "schedule": null,
+        "contacts": null,
+        "image": null,
+        "refundNegativeType": "AllowNegative",
+        "additionalInfo": [
+          {
+            "name": "Brand",
+            "value": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d lgcity"
+          }
+        ],
+        "paymentLimits": [
+          {
+            "identifierType": "Phone",
+            "maximumAmountPaymentLimitEnabled": false,
+            "maximumAmountPaymentLimit": null,
+            "paymentConfirmCodeVerificationEnabled": false,
+            "paymentConfirmCodeVerificationAmount": null
+          }
+        ]
+      },
+      "legal": {
+        "id": 1,
+        "partnerId": 1,
+        "name": "\u041e\u041e\u041e \"\u0422\u0420\u0415\u0419\u0414 \u041c\u0415\u041d\u0415\u0414\u0416\u041c\u0415\u041d\u0422\"",
+        "code": "cade91bd29b742e5b5f118f0ccb3a2c1",
+        "uid": "75e4252e-c955-466b-9610-c32a4d1b9405",
+        "isDeleted": false
+      },
+      "state": "Confirmed",
+      "isFinalState": true,
+      "loyaltyProgramId": 1,
+      "personIdentifier": "79261881687",
+      "couponNumbers": null,
+      "timeZone": 0,
+      "chequeAdditionalAttributes": null,
+      "id": 2163056244,
+      "purchaseId": 2163056244,
+      "purchaseTime": "2025-03-12T23:52:40",
+      "chequeNumber": "1605082"
+    },
+    {
+      "completeTime": null,
+      "deviceCode": "lgcity_mp",
+      "merchant": {
+        "id": 105,
+        "name": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 lgCITY",
+        "internalName": "MobApp_lgCITY",
+        "guid": "00000000-0000-0000-0000-000000000000",
+        "uid": "97d50ca0-16ca-e3ab-b5f7-193b656c3cc9",
+        "code": "MobApp_lgCITY",
+        "brandId": 10,
+        "partnerId": 1,
+        "brandName": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0438 MobApp lgCITY",
+        "partnerCatalogId": 1,
+        "location": null,
+        "isDeleted": false,
+        "url": null,
+        "order": 200,
+        "description": "",
+        "schedule": null,
+        "contacts": null,
+        "image": null,
+        "refundNegativeType": "AllowNegative",
+        "additionalInfo": [
+          {
+            "name": "Brand",
+            "value": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d lgcity"
+          }
+        ],
+        "paymentLimits": [
+          {
+            "identifierType": "Phone",
+            "maximumAmountPaymentLimitEnabled": false,
+            "maximumAmountPaymentLimit": null,
+            "paymentConfirmCodeVerificationEnabled": false,
+            "paymentConfirmCodeVerificationAmount": null
+          }
+        ]
+      },
+      "legal": {
+        "id": 1,
+        "partnerId": 1,
+        "name": "\u041e\u041e\u041e \"\u0422\u0420\u0415\u0419\u0414 \u041c\u0415\u041d\u0415\u0414\u0416\u041c\u0415\u041d\u0422\"",
+        "code": "cade91bd29b742e5b5f118f0ccb3a2c1",
+        "uid": "75e4252e-c955-466b-9610-c32a4d1b9405",
+        "isDeleted": false
+      },
+      "state": "Confirmed",
+      "isFinalState": true,
+      "loyaltyProgramId": 1,
+      "personIdentifier": "79261881687",
+      "couponNumbers": null,
+      "timeZone": 0,
+      "chequeAdditionalAttributes": null,
+      "id": 2163055734,
+      "purchaseId": 2163055734,
+      "purchaseTime": "2025-03-11T02:39:10",
+      "chequeNumber": "1604987"
+    },
+    {
+      "completeTime": null,
+      "deviceCode": "lgcity_mp",
+      "merchant": {
+        "id": 105,
+        "name": "\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 lgCITY",
+        "internalName": "MobApp_lgCITY",
+        "guid": "00000000-0000-0000-0000-000000000000",
+        "uid": "97d50ca0-16ca-e3ab-b5f7-193b656c3cc9",
+        "code": "MobApp_lgCITY",
+        "brandId": 10,
+        "partnerId": 1,
+        "brandName": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d \u0438 MobApp lgCITY",
+        "partnerCatalogId": 1,
+        "location": null,
+        "isDeleted": false,
+        "url": null,
+        "order": 200,
+        "description": "",
+        "schedule": null,
+        "contacts": null,
+        "image": null,
+        "refundNegativeType": "AllowNegative",
+        "additionalInfo": [
+          {
+            "name": "Brand",
+            "value": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d lgcity"
+          }
+        ],
+        "paymentLimits": [
+          {
+            "identifierType": "Phone",
+            "maximumAmountPaymentLimitEnabled": false,
+            "maximumAmountPaymentLimit": null,
+            "paymentConfirmCodeVerificationEnabled": false,
+            "paymentConfirmCodeVerificationAmount": null
+          }
+        ]
+      },
+      "legal": {
+        "id": 1,
+        "partnerId": 1,
+        "name": "\u041e\u041e\u041e \"\u0422\u0420\u0415\u0419\u0414 \u041c\u0415\u041d\u0415\u0414\u0416\u041c\u0415\u041d\u0422\"",
+        "code": "cade91bd29b742e5b5f118f0ccb3a2c1",
+        "uid": "75e4252e-c955-466b-9610-c32a4d1b9405",
+        "isDeleted": false
+      },
+      "state": "Confirmed",
+      "isFinalState": true,
+      "loyaltyProgramId": 1,
+      "personIdentifier": "79261881687",
+      "couponNumbers": null,
+      "timeZone": 0,
+      "chequeAdditionalAttributes": null,
+      "id": 2163055722,
+      "purchaseId": 2163055722,
+      "purchaseTime": "2025-03-11T02:36:11",
+      "chequeNumber": "1604983"
+    }
+  ],
+  "result": {
+    "state": "Success",
+    "httpCode": 200,
+    "message": null,
+    "messageCode": null,
+    "exception": null,
+    "validationErrors": null
+  }
+}
